@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">模擬計測</string>
+    <string name="ver_1">計測集計Ver.1</string>
+    <string name="ver_2">計測集計Ver.1</string>
+    <string name="_3">3.画像をアップロードしてください。</string>
+    <string name="ak">骨格診断アンケート</string>
+    <string name="_2">2.骨格アンケートにご協力ください。</string>
+    <string name="_1">1.基本情報を入力してください。</string>
+    <string name="_4">4.計測にご協力ください。</string>
+    <string name="ga">画像をアップロード</string>
+    <string name="tod">TODO</string>
+    <string name="kh">基本情報入力</string>
+    <string name="kei">計測する</string>
+    <string name="_5">5.計測結果を確認できます。</string>
+    <string name="kek">計測結果</string>
+    <string name="_6">6.診断結果の収集にご協力ください。</string>
+    <string name="sou">計測結果を送信する</string>
+    <string name="kih">基本情報入力</string>
+    <string name="_1_2_6">1.ニックネームを入力してください。(2～6文字)</string>
+    <string name="sei">2.性別を教えてください。</string>
+    <string name="dan">男性</string>
+    <string name="jo">女性</string>
+    <string name="to">TODO</string>
+    <string name="ni">ニックネーム</string>
+    <string name="todo">TODO</string>
+    <string name="kokaku">骨格アンケート</string>
+    <string name="hiro">1枚目：正面で手を水平に広げた写真</string>
+    <string name="one">1枚目：</string>
+    <string name="two">2枚目：</string>
+    <string name="keisoku">計測中...</string>
+    <string name="textResult">TextView</string>
+</resources>
